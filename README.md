@@ -38,7 +38,7 @@ const App = () => {
 export default App;
 ```
 
-<img src="./screen1.png" width="200" height="350" style="border:1px solid #000000;"/>  <img src="./screen2.png" width="200" height="350" style="border:1px solid #000000;"/> <img src="./screen3.png" width="200" height="350" style="border:1px solid #000000;"/>
+<img src="./screen1.png" width="200" height="350"/>  <img src="./screen2.png" width="200" height="350"/> <img src="./screen3.png" width="200" height="350"/>
 
 ## Props
 
