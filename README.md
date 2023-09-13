@@ -38,9 +38,11 @@ const App = () => {
 export default App;
 ```
 
-![Alt screen1](./screen1.png)
+<!-- ![Alt screen1](./screen1.png)
 ![Alt screen2](./screen2.png)
-![Alt screen3](./screen3.png)
+![Alt screen3](./screen3.png) -->
+
+<img src="./screen1.png" width="100" height="200"/><img src="./screen2.png" width="100" height="200"/><img src="./screen3.png" width="100" height="200"/>
 
 ## Contributing
 
