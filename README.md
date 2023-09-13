@@ -38,6 +38,10 @@ const App = () => {
 export default App;
 ```
 
+![Alt screen1](./screen1.png)
+![Alt screen2](./screen2.png)
+![Alt screen3](./screen3.png)
+
 ## Contributing
 
 See the [contributing guide](CONTRIBUTING.md) to learn how to contribute to the repository and the development workflow.
