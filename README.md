@@ -38,11 +38,12 @@ const App = () => {
 export default App;
 ```
 
-<!-- ![Alt screen1](./screen1.png)
-![Alt screen2](./screen2.png)
-![Alt screen3](./screen3.png) -->
+<img src="./screen1.png" width="200" height="350"/>     <img src="./screen2.png" width="200" height="350"/>     <img src="./screen3.png" width="200" height="350"/>
 
-<img src="./screen1.png" width="200" height="300"/>     <img src="./screen2.png" width="200" height="300"/>     <img src="./screen3.png" width="200" height="300"/>
+## Props
+
+* setCountry : will set the selected country from dropdown
+* setValue : will set the value entered in textinput
 
 ## Contributing
 
